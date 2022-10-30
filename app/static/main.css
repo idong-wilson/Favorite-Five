@@ -1,0 +1,11 @@
+body {
+    background-color: darkgray;
+}
+
+.col2 {
+    background-color: azure;
+    margin: 20px;
+    padding: 10px;
+    width: 30%;
+    border-radius: 6px;
+}
